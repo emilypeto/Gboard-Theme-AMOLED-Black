@@ -26,6 +26,8 @@ async function run() {
                 author: 'Rboard Script',
                 tags: []
             }
+            meta.themes = zip.getEntries().filter(entry => entry.name.endsWith(".zip")).map(entry => entry.name.replace(".zip", ""))
+            meta.size = fs.statSync(path.join(packPath, pack)).size
             await new Promise((res) => {
                 gitLog({
                     repo: process.cwd(),
@@ -34,10 +36,9 @@ async function run() {
                 }, (error, commits) => {
                     const commit = commits[0]
                     if (commit) {
-                        console.log(commit)
                         meta.date = new Date(commit.authorDate).getTime()
                         meta.author = commit.authorName
-                    } else if (error) console.log(error)
+                    }
                     res()
                 })
             })
