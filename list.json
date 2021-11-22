@@ -690,7 +690,11 @@
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/MPack_Dark.zip",
     "author": "Akos Paha",
-    "tags": [],
+    "tags": [
+      "Border",
+      "Dark",
+      "Fixed"
+    ],
     "themes": [
       "Dark_Pale_Pink",
       "Dark_Patterns_Blue",
@@ -705,14 +709,18 @@
       "Dark_Hawkes_Blue",
       "Dark_Onahau"
     ],
-    "size": 846451,
-    "date": 1637610037000,
-    "name": "MPack Dark"
+    "size": 846645,
+    "date": 1637610268000,
+    "name": "MPack Dark Themes"
   },
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/MPack_Light.zip",
     "author": "Akos Paha",
-    "tags": [],
+    "tags": [
+      "Border",
+      "Light",
+      "Fixed"
+    ],
     "themes": [
       "Light_Medium_Aquamarine",
       "Light_Medium_Turquoise",
@@ -726,9 +734,9 @@
       "Light_Lavender",
       "Light_Mauve_Purple"
     ],
-    "size": 785354,
-    "date": 1637610037000,
-    "name": "MPack Light"
+    "size": 785549,
+    "date": 1637610268000,
+    "name": "MPack Light Themes"
   },
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Material3_Pack.zip",
