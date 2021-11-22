@@ -690,53 +690,45 @@
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/MPack_Dark.zip",
     "author": "Akos Paha",
-    "tags": [
-      "Border",
-      "Dark",
-      "Fixed"
-    ],
+    "tags": [],
     "themes": [
-      "Dark_Texas_Yellow",
-      "Dark_Sulu_Green",
-      "Dark_Soft_Peach",
-      "Dark_Selago",
-      "Dark_Patterns_Blue",
       "Dark_Pale_Pink",
-      "Dark_Onahau",
-      "Dark_Hawkes_Blue",
-      "Dark_Gainsboro",
-      "Dark_Electric_Blue",
+      "Dark_Patterns_Blue",
+      "Dark_Selago",
+      "Dark_Soft_Peach",
+      "Dark_Sulu_Green",
+      "Dark_Texas_Yellow",
+      "Dark_Aquamarine",
       "Dark_Cosmos_Orange",
-      "Dark_Aquamarine"
+      "Dark_Electric_Blue",
+      "Dark_Gainsboro",
+      "Dark_Hawkes_Blue",
+      "Dark_Onahau"
     ],
-    "size": 843635,
-    "date": 1633192919000,
-    "name": "MPack Dark Themes"
+    "size": 846451,
+    "date": 1637610037000,
+    "name": "MPack Dark"
   },
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/MPack_Light.zip",
     "author": "Akos Paha",
-    "tags": [
-      "Border",
-      "Light",
-      "Fixed"
-    ],
+    "tags": [],
     "themes": [
-      "Light_Wild_Willow",
-      "Light_Vivid_Yellow",
-      "Light_Sundown",
-      "Light_Sky_Blue",
-      "Light_Rajah_Orange",
-      "Light_Pale_Cornflower_Blue",
-      "Light_Medium_Turquoise",
       "Light_Medium_Aquamarine",
-      "Light_Mauve_Purple",
+      "Light_Medium_Turquoise",
+      "Light_Pale_Cornflower_Blue",
+      "Light_Rajah_Orange",
+      "Light_Sky_Blue",
+      "Light_Sundown",
+      "Light_Vivid_Yellow",
+      "Light_Wild_Willow",
+      "Light_Cupid_Pink",
       "Light_Lavender",
-      "Light_Cupid_Pink"
+      "Light_Mauve_Purple"
     ],
-    "size": 782965,
-    "date": 1633192919000,
-    "name": "MPack Light Themes"
+    "size": 785354,
+    "date": 1637610037000,
+    "name": "MPack Light"
   },
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Material3_Pack.zip",
