@@ -427,8 +427,14 @@
   },
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Exclusive_2.zip",
-    "author": "AkosPaha",
-    "tags": [],
+    "author": "Akos Paha",
+    "tags": [
+      "Fixed",
+      "Exclusive",
+      "Border",
+      "Dark",
+      "Unique"
+    ],
     "themes": [
       "Dark_Orange",
       "Dark_Purple",
@@ -459,9 +465,9 @@
       "Dark_Blue",
       "Dark_Green"
     ],
-    "size": 1697047,
-    "date": 1633728301000,
-    "name": "Exclusive 2"
+    "size": 1697251,
+    "date": 1637788931000,
+    "name": "Exclusive Pack 2"
   },
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Exclusive_3.zip",
