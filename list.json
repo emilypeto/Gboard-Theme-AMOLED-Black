@@ -536,19 +536,20 @@
       "Border",
       "Light",
       "Dark",
-      "Exclusive"
+      "Exclusive",
+      "Fixed"
     ],
     "themes": [
-      "Android_12_Style_Dark",
       "Android_12_Style_Light",
       "Android_Studio_Logo",
       "Black_Cardinal",
       "Pale_Blue_Wewak",
       "Samsung_Keyboard_2014",
-      "VS_Code_Dark"
+      "VS_Code_Dark",
+      "Android_12_Style_Dark"
     ],
-    "size": 440264,
-    "date": 1634932366000,
+    "size": 451184,
+    "date": 1638958026000,
     "name": "Exclusive Pack 5"
   },
   {
