@@ -983,6 +983,27 @@
     "name": "Nord themes"
   },
   {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Pacman_Themes.zip",
+    "author": "CrazyTrucker",
+    "tags": [],
+    "themes": [
+      "Pacman3d_OnePlus_Blue_mod",
+      "Pacman3d_OnePlus_Yellow_mod",
+      "Pacman_OnePlus_Blue_mod",
+      "Pacman_OnePlus_Yellow_mod",
+      "PacmanDark_OnePlus_Blue_mod",
+      "PacmanDark_OnePlus_Yellow_mod"
+    ],
+    "size": 772995,
+    "date": 1639384805000,
+    "name": "Pacman Themes",
+    "tag": [
+      "Dark",
+      "Bordered",
+      "Colorful"
+    ]
+  },
+  {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/PitchBlack.zip",
     "author": "Akos Paha",
     "tags": [
