@@ -994,13 +994,14 @@
       "PacmanDark_OnePlus_Blue_mod",
       "PacmanDark_OnePlus_Yellow_mod"
     ],
-    "size": 772995,
-    "date": 1639384805000,
+    "size": 773039,
+    "date": 1639384900000,
     "name": "Pacman Themes",
     "tag": [
       "Dark",
       "Bordered",
-      "Colorful"
+      "Colorful",
+      "Fixed"
     ]
   },
   {
