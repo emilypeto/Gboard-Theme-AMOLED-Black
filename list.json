@@ -116,7 +116,7 @@
     "tags": [
       "Black",
       "Border",
-      "fixed"
+      "Fixed"
     ],
     "themes": [
       "Blackgreen",
@@ -139,7 +139,7 @@
       "Blackgreen_no_border"
     ],
     "size": 1002710,
-    "date": 1640248222000,
+    "date": 1640257254000,
     "name": "Black themes"
   },
   {
@@ -766,20 +766,21 @@
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Material_grey.zip",
     "author": "Akos Paha",
     "tags": [
-      "Material"
+      "Material",
+      "Fixed"
     ],
     "themes": [
-      "Material_grey_blue",
-      "Material_grey_green",
       "Material_grey_light_blue",
-      "Material_grey_orange",
-      "Material_grey_pink",
-      "Material_grey_purple",
+      "Material_grey_green",
+      "Material_grey_blue",
+      "Material_grey_yellow",
       "Material_grey_red",
-      "Material_grey_yellow"
+      "Material_grey_purple",
+      "Material_grey_pink",
+      "Material_grey_orange"
     ],
-    "size": 1052677,
-    "date": 1632331737000,
+    "size": 1048627,
+    "date": 1640257254000,
     "name": "Grey Material Themes"
   },
   {
@@ -970,17 +971,20 @@
   {
     "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Nord_Themes.zip",
     "author": "Akos Paha",
-    "tags": [],
+    "tags": [
+      "Dark",
+      "Fixed"
+    ],
     "themes": [
-      "Nord_Green",
-      "Nord_Grey",
-      "Nord_Orange",
-      "Nord_Purple",
       "Nord_Red",
+      "Nord_Purple",
+      "Nord_Orange",
+      "Nord_Grey",
+      "Nord_Green",
       "Nord_Yellow"
     ],
-    "size": 354278,
-    "date": 1632331737000,
+    "size": 301049,
+    "date": 1640257254000,
     "name": "Nord themes"
   },
   {
