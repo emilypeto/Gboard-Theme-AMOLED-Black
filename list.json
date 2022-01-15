@@ -1017,13 +1017,15 @@
     "themes": [
       "Pacman3d_OnePlus_Blue_mod",
       "Pacman3d_OnePlus_Yellow_mod",
-      "Pacman_OnePlus_Yellow_mod",
       "Pacman_OnePlus_Blue_mod",
+      "Pacman_OnePlus_Yellow_mod",
       "PacmanDark_OnePlus_Blue_mod",
-      "PacmanDark_OnePlus_Yellow_mod"
+      "PacmanDark_OnePlus_Yellow_mod",
+      "PacmanDark_Red-2_",
+      "PacmanDark_Red_"
     ],
-    "size": 869266,
-    "date": 1639386538000,
+    "size": 958366,
+    "date": 1642247917000,
     "name": "Pacman Themes"
   },
   {
