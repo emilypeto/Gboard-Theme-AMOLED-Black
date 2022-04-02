@@ -1,14 +1,6 @@
-# PackRepoBeta
+Minimalist AMOLED black theme for Gboard via Rboard Theme Manager V3, based on Weasel Black by Leese.
 
-just put your theme-packs in the `packs` folder
-
-for infos like `author, tags, name` you can add `pack.meta` to your packs
-
-example:
+To use, go to Rboard settings and add this URL to your repositories:
 ```
-name: Some themes
-author: Some author
-tags:Tag1,Tag2,Tag3
+https://github.com/emilypeto/Gboard-Theme-AMOLED-Black/raw/main/list.json
 ```
-
-in rboard manager v3 you can add the raw `list.json` as repo (`https://raw.githubusercontent.com/AkosPaha/PackRepoBeta/main/list.json`)
