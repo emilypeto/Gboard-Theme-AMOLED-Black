@@ -1,20 +1,8 @@
 [
   {
-    "image": "https://raw.githubusercontent.com/GboardThemes/PackRepoBeta/main/top/mpacl.png",
-    "author": "Akos Paha",
-    "url": "https://raw.githubusercontent.com/AkosPaha/PackRepoBeta/main/packs/MPack_Light.zip",
-    "title": "MPack Light Themes"
-  },
-  {
     "image": "https://raw.githubusercontent.com/GboardThemes/PackRepoBeta/main/top/mpacd.png",
-    "author": "Akos Paha",
-    "url": "https://raw.githubusercontent.com/AkosPaha/PackRepoBeta/main/packs/MPack_Dark.zip",
-    "title": "MPack Dark Themes"
-  },
-  {
-    "image": "https://raw.githubusercontent.com/GboardThemes/PackRepoBeta/main/top/rpack.png",
-    "author": "RKBDI",
-    "url": "https://raw.githubusercontent.com/GboardThemes/PackRepoBeta/main/packs/Rthemes.zip",
-    "title": "Rboard"
+    "author": "Emily Peto",
+    "url": "https://raw.githubusercontent.com/emilypeto/Gboard-Theme-AMOLED-Black/main/packs/AMOLED_Black.zip",
+    "title": "AMOLED Black"
   }
 ]
